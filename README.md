@@ -1,7 +1,7 @@
 # Budget Tracker App
 
 ## Deployed App
-
+https://fierce-plains-71944.herokuapp.com/
 
 ![app screenshot](/public/assets/budget_screenshot.jpg)
 
